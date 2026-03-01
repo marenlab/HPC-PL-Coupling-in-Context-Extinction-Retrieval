@@ -54,7 +54,7 @@ Author:
 🧠 Maren Lab – Beckman Institute for Advanced Science and Technology  
    University of Illinois Urbana-Champaign
    
-   email: mourao.fg@illinois.edu  
+   mourao.fg@illinois.edu  
     
 ---
 
